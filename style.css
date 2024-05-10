@@ -74,7 +74,11 @@ body{
 
 .estudante-todos{
     display: grid;
-    grid-template-columns: 20% 15% 15% 15% 15% 20%;
+    grid-template-columns: 25% 17% 18% 17% 25%;
+}
+
+.estudante-imagem{
+    width: 250px;
 }
 
 .rodape{
